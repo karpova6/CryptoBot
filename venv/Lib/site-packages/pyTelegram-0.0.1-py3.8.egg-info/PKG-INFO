@@ -1,0 +1,29 @@
+Metadata-Version: 1.1
+Name: pyTelegram
+Version: 0.0.1
+Summary: Pure python implementation of telegram
+Home-page: http://chidea.github.io/pyTelegram
+Author: Byoungwoo Song
+Author-email: sbw228@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/chidea/pyTelegram/zipball/master
+Description: pyTelegram
+        ==========
+        Pure python implementation of telegram
+        
+        prerequisites
+        =============
+        Python 3.4
+          PyCrypto
+        
+Keywords: telegram,messenger
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Development Status :: 1 - Planning
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Communications :: Chat
